@@ -241,4 +241,4 @@ This repository serves as the official landing page for Clash of Clans. The soft
 **Get the most recent version of Clash of Clans today!**
 
 ---
-**Last updated:** 2026-11-01 14:55:20 UTC
+**Last updated:** 2026-11-01 19:28:53 UTC
